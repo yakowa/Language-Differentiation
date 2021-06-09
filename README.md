@@ -3,6 +3,8 @@
 
 # Language Differentiation
 
+The language differentiation app provides 6 unique functions for text.
+
 I built the Language Differentiation application as my final assessment in my programming class.
 
 
