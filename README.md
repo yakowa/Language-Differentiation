@@ -15,7 +15,7 @@ I built the Language Differentiation application as my final assessment in my pr
 
 ### How to use
 
-Run the windows executable application file (.exe) found in the dist folder.
+Run the windows executable application file (.exe) found [here](https://www.dropbox.com/s/8domskej9c4i322/Language%20Differentiation.exe?dl=1).
 
 or clone this project and run the ```main.py``` file. (Note: you must have Python installed for this.)
 
